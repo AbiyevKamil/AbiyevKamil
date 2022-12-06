@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiyevkamil" alt="abiyevkamil" /></a> </p>
 
+- 🔭 I’m currently working on **Crocusoft.**
 
 - 🌱 I’m currently learning **Spring Boot.**
 
@@ -16,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamil-abiyev-7140141a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamil-abiyev-7140141a1/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100041376644757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100041376644757" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kamil-abiyev-7140141a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamil-abiyev-7140141a1/" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100041376644757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100041376644757" height="30" width="40" /></a>
 <a href="https://medium.com/@kamilabiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kamilabiyev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/abiyevkamil3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abiyevkamil3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kamilabiyev1903/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kamilabiyev1903/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abiyevkamil3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abiyevkamil3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kamilabiyev1903/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamilabiyev1903/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
