@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiyevkamil" alt="abiyevkamil" /></a> </p>
 
-<!--- - 🔭 I’m currently working on **Crocusoft.** --->
+- 🔭 I’m currently working on **Azercell Telecom LLC.**
 
-- 🌱 I’m currently learning **Spring Boot.**
+<!-- - 🌱 I’m currently learning **Spring Boot.** -->
 
 - 📝 I regularly write articles on [https://medium.com/@kamilabiyev](https://medium.com/@kamilabiyev)
 
