@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil Abiyev</h1>
-<h3 align="center">A hardworking software developer and computer engineering student from Azerbaijan.</h3>
+<h3 align="center">A hardworking software development engineer and computer engineering student from Azerbaijan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiyevkamil&label=Profile%20views&color=0e75b6&style=flat" alt="abiyevkamil" /> </p>
 
